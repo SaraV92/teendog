@@ -1,2 +1,2 @@
 # teendog
-[Website link](https://sarav92.github.io/tindog/)
+[Website link](https://sarav92.github.io/teendog/)
