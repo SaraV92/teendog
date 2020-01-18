@@ -187,7 +187,7 @@ p {
   }
   
   .testimonial-image {
-    width: 25%;
+    width: 20%;
     border-radius: 50%;
     margin: 20px;
   }
@@ -202,6 +202,12 @@ p {
     position: static;
     transform: rotate(0);
   }
+  
+  .testimonial-image {
+    width: 20%;
+    border-radius: 50%;
+    margin: 20px;
+  }
 
   .price-text {
     font-size: 2.2rem;
@@ -211,6 +217,12 @@ p {
 @media (min-width: 1007px) and (max-width: 1200px) {
   .feature-title {
     font-size: 2rem;
+  }
+  
+  .testimonial-image {
+    width: 20%;
+    border-radius: 50%;
+    margin: 20px;
   }
 
   .price-text {
